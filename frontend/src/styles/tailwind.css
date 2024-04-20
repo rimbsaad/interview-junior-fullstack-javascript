@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.content_header {
+    position: absolute;
+    top: 20px;
+    position: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+.content_city {
+    position: absolute;
+    top: 110px;
+    
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+ .button_search{
+    position: absolute;
+    top: 55px;
+    width: 100%;
+    left: -290px;
+}    
